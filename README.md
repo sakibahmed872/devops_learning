@@ -25,7 +25,7 @@ to make a DNS query, copy the following command to the terminal and hit enter.
  ```
 
 #### Output
-![DNS Query](/Class One/dns_query.png)
+![DNS Query]([/Class One/dns_query.png](https://github.com/sakibahmed872/devops_learning/blob/main/Class%20One/dns_query.png))
 
 ## What is ARP?
 ARP is a Address Resolution Protocal. What does it mean actually ? 
