@@ -59,7 +59,7 @@ CIDR is IP addressing scheme that improved the allocation of IP address. Previou
 
 #
 ## Namespaces
->Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources and another set of processes sees a different set of resources. The feature works by having the same namespace for a group of resources and processes, but those namespaces refer to distinct resources. - [Wikipedia]("https://en.wikipedia.org/wiki/Linux_namespaces")
+>Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources and another set of processes sees a different set of resources. The feature works by having the same namespace for a group of resources and processes, but those namespaces refer to distinct resources. - [Wikipedia](https://en.wikipedia.org/wiki/Linux_namespaces)
 
 Namespaces is one of the most exciting feature of Linux Kernel that seperates Linux from others. There are 8 types of namespaces in the linux kernel. 
 
@@ -83,4 +83,4 @@ ___
 
 * [Address Resolution Protocol](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
 * [Address Resolution Protocol (ARP)](https://searchnetworking.techtarget.com/definition/Address-Resolution-Protocol-ARP)
-* [Linux Namespaces]("https://en.wikipedia.org/wiki/Linux_namespaces")
+* [Linux Namespaces](https://en.wikipedia.org/wiki/Linux_namespaces)

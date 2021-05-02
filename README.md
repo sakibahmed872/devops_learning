@@ -5,12 +5,12 @@ This Course is offered by Tecognise Training, a concern of Tecognize Solutions L
 
 Course Code: DEVOPS 2105
 
-Instructor: [Shajal Ahmed]("https://github.com/shajalahamedcse"), Software Engineer(L2) at [AirAsia]("https://www.airasia.com/en/gb") 
+Instructor: [Shajal Ahmed](https://github.com/shajalahamedcse), Software Engineer(L2) at [AirAsia](https://www.airasia.com/en/gb) 
 
 ___
 ___
 I will share everything what I am learning throughout this course.
 
-[Class One]("https://github.com/sakibahmed872/devops_learning/tree/master/Class%20One")
+[Class One](https://github.com/sakibahmed872/devops_learning/tree/master/Class%20One)
 
-[Class Two]("https://github.com/sakibahmed872/devops_learning/tree/master/Class%20Two")
+[Class Two](https://github.com/sakibahmed872/devops_learning/tree/master/Class%20Two)
