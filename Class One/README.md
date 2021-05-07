@@ -17,7 +17,8 @@ to make a DNS query, copy the following command to the terminal and hit enter.
  ```
 
 #### Output
-![DNS Query](https://github.com/sakibahmed872/devops_learning/blob/master/Class%20One/dns_query.png)
+![dns_query](https://user-images.githubusercontent.com/30199516/116807145-4a2c8900-ab53-11eb-8afd-e7745854392a.png)
+
 
 ## What is ARP?
 ARP is a Address Resolution Protocal. What does it mean actually ? 
@@ -67,6 +68,8 @@ Namespaces is one of the most exciting feature of Linux Kernel that seperates Li
 ### Network Namespace
 Network Namespace creates a separate Network world inside the main computer but separate from Host Namespace. A network namespace is a black box for host namespace. It means Host Namespace don't have any access to that network namespace and vise-versa. Host namespace and any network namespace can be connected through virtual ether to transfer data or packet. In a linux system, multiple numbers of network namespaces can be created where necessary. 
 
+
+## Netcat Sever
 
 
 
