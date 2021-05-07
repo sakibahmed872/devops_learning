@@ -5,7 +5,7 @@ This Course is offered by Tecognise Training, a concern of Tecognize Solutions L
 
 Course Code: DEVOPS 2105
 
-Instructor: [Shajal Ahmed](https://github.com/shajalahamedcse), Software Engineer(L2) at [AirAsia](https://www.airasia.com/en/gb) 
+Instructor: @shajalahamedcse, Software Engineer(L2) at [AirAsia](https://www.airasia.com/en/gb) 
 
 ___
 ___
